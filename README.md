@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+## 🏫 I'm studying at KAIST EE.
+## 🌱 I'm currently interested in ML.
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seong-yun-byeon-8183a8113/)](www.linkedin.com/in/younghwan0120
+)
 <!--
 **trytoYH/trytoYH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
