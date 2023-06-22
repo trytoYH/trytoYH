@@ -2,6 +2,7 @@
 <br>
 
 <p align="center">
+    <Strong>I'm currently interested in Machine Learning</Strong> <br><br>
     <Strong>☁️ About me ☁️</Strong><br><br>
    <a href="https://www.linkedin.com/in/younghwan0120/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white"/></a>
 <br><br>
