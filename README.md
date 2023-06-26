@@ -13,15 +13,16 @@
 <br>
 
 <p align="center">
-<Strong>🏫 Education 🏫 </strong><br>
-Undergraduate student at KAIST EE (2020.03 - Present)<br>
+    <Strong>🏫 Education 🏫 </strong><br>
+    Undergraduate student at KAIST EE (2020.03 - Present)<br>
 </p>
 
 <br>
 
 <p align="center">
-<Strong>💻 Work Experience 💻 </strong><br>
-Ringle NLP Reseach Intern ( 2022.07 - 2023.02 )<br>
+    <Strong>💻 Work Experience 💻 </strong><br>
+    KAIST CASys Lab Research Intern (2022.05 - Present)<br>
+    Ringle NLP Research Intern ( 2022.07 - 2023.02 )<br>
 </p>
 
 <br>
