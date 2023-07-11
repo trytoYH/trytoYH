@@ -3,7 +3,7 @@
 
 <p align="center">
     <Strong>I'm currently interested in Machine Learning</Strong> <br><br>
-    <Strong>☁️ About me (Click !)☁️</Strong><br><br>
+    <Strong>☁️ About me (Click !) ☁️</Strong><br><br>
    <a href="https://www.linkedin.com/in/younghwan0120/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
     <a href="https://kim-yh.notion.site/Blog-3429a1063b6948e19d85abc3a3e8f3ec?pvs=4"><img src="https://img.shields.io/badge/Blog-000000?style=for-the-badge&logo=notion&logoColor=white"/></a>
 <br><br>
