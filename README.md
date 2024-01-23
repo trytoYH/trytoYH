@@ -21,7 +21,7 @@
 
 <p align="center">
     <Strong>💻 Work Experience 💻 </strong><br>
-    KAIST CASys Lab Research Intern (2022.05 - Present)<br>
+    KAIST CASys Lab Research Intern (2023.05 - Present)<br>
     Ringle NLP Research Intern ( 2022.07 - 2023.02 )<br>
 </p>
 
