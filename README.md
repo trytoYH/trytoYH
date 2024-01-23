@@ -4,11 +4,10 @@
 <p align="center">
     <Strong>I'm currently interested in Machine Learning</Strong> <br><br>
     <Strong>☁️ About me (Click !) ☁️</Strong><br><br>
-   <a href="https://www.linkedin.com/in/younghwan0120/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+    <a href="https://www.linkedin.com/in/younghwan0120/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
     <a href="https://kim-yh.notion.site/Blog-3429a1063b6948e19d85abc3a3e8f3ec?pvs=4"><img src="https://img.shields.io/badge/Blog-000000?style=for-the-badge&logo=notion&logoColor=white"/></a>
-<br><br>
-<Strong>📧 Email 📧</Strong><br>trytolight@kaist.ac.kr<br>
-
+    <br><br>
+    <Strong>📧 Email 📧</Strong><br>trytolight@kaist.ac.kr<br>
 </p>
 
 <br>
@@ -46,6 +45,9 @@
     <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
     <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=white">
     <img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=for-the-badge&logo=Tensorflow&logoColor=white">    
+    <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white">
+    <img src="https://img.shields.io/badge/AWS EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white">
+    <img src="https://img.shields.io/badge/AWS RDS-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white">
 </p>
 <p align="center" display="inline-block">
     💡 Beginner <br>
@@ -53,7 +55,8 @@
     <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
     <img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white">
     <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white">
-    
+    <img src="https://img.shields.io/badge/JS-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">
+    <img src="https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white">
 </p>
 
 <br>
