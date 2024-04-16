@@ -13,16 +13,17 @@
 <br>
 
 <p align="center">
-    <Strong>🏫 Education 🏫 </strong><br>
-    Undergraduate student at KAIST EE (2020.03 - Present)<br>
+    <Strong>💻 Work Experience 💻 </strong><br>
+    Karrot | Software Engineer, Machine Learning (2023.04 - Present)<br>
+    KAIST CASys Lab | Research Intern (2023.05 - 2024.03)<br>
+    Ringle | NLP Research Intern ( 2022.07 - 2023.02 )<br>
 </p>
 
 <br>
 
 <p align="center">
-    <Strong>💻 Work Experience 💻 </strong><br>
-    KAIST CASys Lab Research Intern (2023.05 - Present)<br>
-    Ringle NLP Research Intern ( 2022.07 - 2023.02 )<br>
+    <Strong>🏫 Education 🏫 </strong><br>
+    Undergraduate student at KAIST EE (2020.03 - Present)<br>
 </p>
 
 <br>
