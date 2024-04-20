@@ -14,7 +14,7 @@
 
 <p align="center">
     <Strong>💻 Work Experience 💻 </strong><br>
-    Karrot | Software Engineer, Machine Learning (2023.04 - Present)<br>
+    Daangn | Software Engineer, Machine Learning (2023.04 - Present)<br>
     KAIST CASys Lab | Research Intern (2023.05 - 2024.03)<br>
     Ringle | NLP Research Intern ( 2022.07 - 2023.02 )<br>
 </p>
